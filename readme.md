@@ -3,6 +3,9 @@
 ## Overview
 The Wine Quality Predictor Chrome Extension is a tool that allows users to predict the quality of wine based on its features. This extension uses a pre-trained logistic regression model to make predictions. Users can input various wine attributes such as acidity, sugar content, and alcohol percentage, and the extension will output a predicted quality score.
 
+![alt text](images/image.png)
+
+
 ## Features
 - **User-Friendly Interface:** A simple and intuitive form for inputting wine features.
 - **Real-Time Prediction:** Instantly get the predicted quality of the wine.
