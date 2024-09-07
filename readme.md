@@ -86,7 +86,7 @@ The pre-trained logistic regression model was trained on the Wine Quality datase
 Special thanks to the open-source community for providing tools and libraries that made this project possible.
 
 ### Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact jojoyadav255@gmail.com.
 
 Enjoy predicting wine quality with the Wine Quality Predictor Chrome Extension!
 
