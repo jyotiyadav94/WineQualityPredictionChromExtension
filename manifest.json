@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Wine Quality Predictor",
+  "version": "1.0",
+  "description": "Predict the quality of wine based on its features.",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.jpg"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "images/icon16.jpg"
+  }
+}
