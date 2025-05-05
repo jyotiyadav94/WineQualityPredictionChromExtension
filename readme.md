@@ -94,4 +94,4 @@ For any questions or feedback, please contact jojoyadav255@gmail.com.
 Enjoy predicting wine quality with the Wine Quality Predictor Chrome Extension!
 
 
-
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/jyotiyadav94/WineQualityPredictionChromExtension?utm_source=oss&utm_medium=github&utm_campaign=jyotiyadav94%2FWineQualityPredictionChromExtension&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
